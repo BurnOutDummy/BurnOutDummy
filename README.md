@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BurnOutDummy
 - 👀 I’m interested in ...Nothing
 - 🌱 I’m currently learning ...Shits
-- 💞️ I’m looking to collaborate with hot checks
+- 💞️ I’m looking to collaborate with myheart
 - 📫 
 
 <!---
