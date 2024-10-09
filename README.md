@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BurnOutDummy
 - 👀 I’m interested in ...Nothing
-- 🌱 I’m currently learning ...Shits
-- 💞️ I’m looking to collaborate with myheart
+- 🌱 I’m currently learning Lots of things rust ,react and also portuguese .
+- 💞️ I’m looking for skills
 - 📫 
 
 <!---
